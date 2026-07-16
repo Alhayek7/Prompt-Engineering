@@ -22,7 +22,6 @@
 
 ![Prompt Engineering Mastery Preview](./assets/preview.png)
 
-<sub>*ضع هنا لقطة شاشة حقيقية من الموقع — راجع قسم "إضافة الصور" أسفل الملف*</sub>
 
 </div>
 
